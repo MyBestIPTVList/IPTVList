@@ -1,34 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Netmediatama.png/300px-Netmediatama.png" tvg-name="Net TV"  group-title="01. Lokal",Net TV
-http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Antv.png" tvg-name="ANTV"  group-title="01. Lokal",ANTV
+http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" tvg-name="Indosiar"  group-title="01. Lokal",Indosiar
-http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" tvg-name="Global TV (Opt-1)"  group-title="01. Lokal",Global TV (Opt-1)
-http://id6.indostreamingtv.com/live/tv1/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://4.bp.blogspot.com/-4pWPRddnlw8/VBH0hYDh78I/AAAAAAAAAHM/US_F56QLQHo/s1600/Logo%2BRCTI%2B-%2Blogo.bullgallery.com.png" tvg-name="RCTI"  group-title="01. Lokal",RCTI
-http://202.80.222.130/000001/2/ch14041511532707866226/1001.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/500px-Rajawali_Televisi.svg.png" tvg-name="Rajawali TV"  group-title="01. Lokal",Rajawali TV
-http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT219992019062322543114287379
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" tvg-name="JTV Surabaya"  group-title="01. Lokal",JTV Surabaya
-http://202.80.222.175/000001/2/ch00000090990000001731/1001.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" tvg-name="Kompas TV"  group-title="01. Lokal",Kompas TV
-http://202.80.222.130/000001/2/ch00000090990000001730/1001.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Metro TV"  group-title="01. Lokal",Metro TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" tvg-name="MNC"  group-title="01. Lokal",MNC
-http://202.80.222.182/000001/2/ch14041511111714365733/1001.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/5L2EGWA.png" tvg-name="JakTV"  group-title="01. Lokal",JakTV
-http://202.80.222.182:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVRI Yogyakarta (Opt-2)"  group-title="01. Lokal",TVRI Yogyakarta (Opt-2)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVRI Jawa Barat"  group-title="01. Lokal",TVRI Jawa Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(02)/index.m3u8
@@ -36,20 +12,8 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(02)/inde
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/9iFoNvF.png" tvg-name="TVRI (Opt-1)"  group-title="01. Lokal",TVRI (Opt-1)
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Antv.png" tvg-name="ANTV"  group-title="01. Lokal",ANTV
-http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVRI Yogyakarta (Opt-2)"  group-title="01. Lokal",TVRI Yogyakarta (Opt-2)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVRI Jogja"  group-title="01. Lokal",TVRI Jogja
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIyogyakarta)/Stream(02)/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png" tvg-name="Trans 7 (Opt-1)"  group-title="01. Lokal",Trans 7 (Opt-1)
-http://202.80.222.182/000001/2/ch14041511545447343123/1001.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" tvg-name="RRI Net"  group-title="01. Lokal",RRI Net
-http://36.89.47.217:11935/rrinet/live/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" tvg-name="SCTV"  group-title="01. Lokal",SCTV
 http://id2.indostreamingtv.com/live/tv2/index.m3u8
@@ -57,11 +21,62 @@ http://id2.indostreamingtv.com/live/tv2/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.transtv.co.id/template/front/source/images/bg/logo.png" tvg-name="Trans TV (Opt-2)"  group-title="01. Lokal",Trans TV (Opt-2)
 http://id6.indostreamingtv.com/live/tv33/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://tough.kix-tv.com/Public/images/kix-hd-logo.png" tvg-name="Kix"  group-title="02. Movies",Kix
-http://210.210.155.35/uq2663/h/h07/01.m3u8?fluxustv.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png" tvg-name="Trans 7 (Opt-1)"  group-title="01. Lokal",Trans 7 (Opt-1)
+http://202.80.222.182/000001/2/ch14041511545447343123/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" tvg-name="RRI Net"  group-title="01. Lokal",RRI Net
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/5L2EGWA.png" tvg-name="JakTV"  group-title="01. Lokal",JakTV
+http://202.80.222.182:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" tvg-name="Global TV (Opt-1)"  group-title="01. Lokal",Global TV (Opt-1)
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://4.bp.blogspot.com/-4pWPRddnlw8/VBH0hYDh78I/AAAAAAAAAHM/US_F56QLQHo/s1600/Logo%2BRCTI%2B-%2Blogo.bullgallery.com.png" tvg-name="RCTI"  group-title="01. Lokal",RCTI
+http://202.80.222.130/000001/2/ch14041511532707866226/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Netmediatama.png/300px-Netmediatama.png" tvg-name="Net TV"  group-title="01. Lokal",Net TV
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" tvg-name="Indosiar"  group-title="01. Lokal",Indosiar
+http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/500px-Rajawali_Televisi.svg.png" tvg-name="Rajawali TV"  group-title="01. Lokal",Rajawali TV
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT219992019062322543114287379
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Metro TV"  group-title="01. Lokal",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" tvg-name="MNC"  group-title="01. Lokal",MNC
+http://202.80.222.182/000001/2/ch14041511111714365733/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" tvg-name="JTV Surabaya"  group-title="01. Lokal",JTV Surabaya
+http://202.80.222.175/000001/2/ch00000090990000001731/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" tvg-name="Kompas TV"  group-title="01. Lokal",Kompas TV
+http://202.80.222.130/000001/2/ch00000090990000001730/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1, tvg-id="FOX Crime IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/1280px-Fox_Crime_2017.svg.png" tvg-name="FOX Crime"  group-title="02. Movies",FOX Crime
+https://1.ip2stream.icu/live/fox_crime_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FOX Movie Premium"  group-title="02. Movies",FOX Movie Premium
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index1.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo-zone.png" tvg-name="HBO"  group-title="02. Movies",HBO
+http://185.246.209.109:8080/HBO_ZONE/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FOX"  group-title="02. Movies",FOX
+http://210.210.155.35/uq2663/h/h04/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://alchetron.com/cdn/celestial-movies-1c9f0f99-d3a2-4a6e-acdd-de1ec02be11-resize-750.jpeg" tvg-name="Celestial Movies"  group-title="02. Movies",Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8?fluxustv.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://tough.kix-tv.com/Public/images/kix-hd-logo.png" tvg-name="Kix"  group-title="02. Movies",Kix
+http://210.210.155.35/uq2663/h/h07/01.m3u8?fluxustv.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FOX Movie Asia"  group-title="02. Movies",FOX Movie Asia
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" tvg-name="K+"  group-title="02. Movies",K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
@@ -69,17 +84,17 @@ http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.vod-logo.net/photos/6a935ccbf26bb9180f9a06f2741d24c0.JPG" tvg-name="Disney Junior Indonesia"  group-title="03. Kids",Disney Junior Indonesia
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png" tvg-name="Aniplus"  group-title="03. Kids",Aniplus
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" tvg-name="Animax"  group-title="03. Kids",Animax
 http://210.210.155.35:80/dr9445/h/h144/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" tvg-name="Dungdut TV"  group-title="04. Music",Dungdut TV
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png" tvg-name="Aniplus"  group-title="03. Kids",Aniplus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://mncchannels.com/files/logo/1440755188_logo_mnc-karaoke.png" tvg-name="Karaoke Channel"  group-title="04. Music",Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" tvg-name="Dungdut TV"  group-title="04. Music",Dungdut TV
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Music Top"  group-title="04. Music",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
@@ -87,41 +102,47 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" tvg-name="Mix TV"  group-title="04. Music",Mix TV
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" tvg-name="BeritaSatu World"  group-title="05. News",BeritaSatu World
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" tvg-name="BeritaSatu (Opt-2)"  group-title="05. News",BeritaSatu (Opt-2)
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-name="CNBC Indonesia"  group-title="05. News",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-
-#EXTINF:-1, tvg-id="CNIH" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" tvg-name="CNN Indonesia"  group-title="05. News",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b384000_sleng.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/Elshinta_tv_logo.jpg/200px-Elshinta_tv_logo.jpg" tvg-name="Elshinta"  group-title="05. News",Elshinta
-http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" tvg-name="BeritaSatu World"  group-title="05. News",BeritaSatu World
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RT"  group-title="05. News",RT
 http://210.210.155.35/session/efcc94f6-7b7a-11e8-afd3-b82a72d63267/qwr9ew/s/s23/01.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/Elshinta_tv_logo.jpg/200px-Elshinta_tv_logo.jpg" tvg-name="Elshinta"  group-title="05. News",Elshinta
+http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+
+#EXTINF:-1, tvg-id="CNIH" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" tvg-name="CNN Indonesia"  group-title="05. News",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b384000_sleng.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-name="CNBC Indonesia"  group-title="05. News",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s60179_h3_aa.png" tvg-name="FOX News"  group-title="05. News",FOX News
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/vMpr2r6.jpg" tvg-name="Jakarta Globe"  group-title="05. News",Jakarta Globe
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/1Yr9nMG.png" tvg-name="J'go"  group-title="06. Entertainment",J'go
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/MNC_HomeLiving.jpeg" tvg-name="Home & Living"  group-title="06. Entertainment",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Diva_logo.svg/500px-Diva_logo.svg.png" tvg-name="Diva"  group-title="06. Entertainment",Diva
-http://210.210.155.35/uq2663/h/h11/01.m3u8?fluxustv.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/1Yr9nMG.png" tvg-name="J'go"  group-title="06. Entertainment",J'go
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/dqvXrhd.jpg" tvg-name="The Indonesia Channel"  group-title="06. Entertainment",The Indonesia Channel
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Diva_logo.svg/500px-Diva_logo.svg.png" tvg-name="Diva"  group-title="06. Entertainment",Diva
+http://210.210.155.35/uq2663/h/h11/01.m3u8?fluxustv.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" tvg-name="Thrill (Opt-2)"  group-title="06. Entertainment",Thrill (Opt-2)
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FOX Sports"  group-title="07. Sport",FOX Sports
+http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Super Soccer TV"  group-title="07. Sport",Super Soccer TV
 http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8
