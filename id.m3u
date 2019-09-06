@@ -6,7 +6,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/1Yr9nMG.png" tvg-name="J'go"  group-title="Entertainment",J'go
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Diva_logo.svg/500px-Diva_logo.svg.png" tvg-name="Diva"  group-title="Entertainment",Diva
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e6/Diva_Universal.png" tvg-name="Diva"  group-title="Entertainment",Diva
 http://210.210.155.35/uq2663/h/h11/01.m3u8?fluxustv.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" tvg-name="Thrill (Opt-2)"  group-title="Entertainment",Thrill (Opt-2)
