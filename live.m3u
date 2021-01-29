@@ -1,0 +1,41 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="01. Lokal" tvg-id="N/A" tvg-name="Metro TV" tvg-logo="Logo N/A" ,Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 group-title="01. Lokal" tvg-id="N/A" tvg-name="RRI Net" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" ,RRI Net
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 group-title="02. Movies" tvg-id="EPG N/A" tvg-name="Celestial Movies" tvg-logo="https://alchetron.com/cdn/celestial-movies-1c9f0f99-d3a2-4a6e-acdd-de1ec02be11-resize-750.jpeg" ,Celestial Movies
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="02. Movies" tvg-id="New EPG" tvg-name="FOX" tvg-logo="New Logo" ,FOX
+http://210.210.155.35/uq2663/h/h04/index.m3u8
+#EXTINF:-1 group-title="02. Movies" tvg-id="EPG N/A" tvg-name="K+" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" ,K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="02. Movies" tvg-id="EPG N/A" tvg-name="Kix" tvg-logo="http://tough.kix-tv.com/Public/images/kix-hd-logo.png" ,Kix
+http://210.210.155.35/uq2663/h/h07/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="03. Kids" tvg-id="EPG N/A" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" ,Animax
+http://210.210.155.35:80/dr9445/h/h144/index.m3u8
+#EXTINF:-1 group-title="03. Kids" tvg-id="EPG N/A" tvg-name="Aniplus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png" ,Aniplus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="04. Music" tvg-id="EPG N/A" tvg-name="Karaoke Channel" tvg-logo="https://mncchannels.com/files/logo/1440755188_logo_mnc-karaoke.png" ,Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+#EXTINF:-1 group-title="04. Music" tvg-id="EPG N/A" tvg-name="Music Top" tvg-logo="Logo N/A" ,Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1 group-title="05. News" tvg-id="EPG N/A" tvg-name="BeritaSatu (Opt-2)" tvg-logo="http://firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" ,BeritaSatu (Opt-2)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 group-title="05. News" tvg-id="EPG N/A" tvg-name="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" ,CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 group-title="05. News" tvg-id="CNIH" tvg-name="CNN Indonesia" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" ,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b384000_sleng.m3u8
+#EXTINF:-1 group-title="05. News" tvg-id="EPG N/A" tvg-name="Elshinta" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/Elshinta_tv_logo.jpg/200px-Elshinta_tv_logo.jpg" ,Elshinta
+http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 group-title="05. News" tvg-id="EPG N/A" tvg-name="Jakarta Globe" tvg-logo="https://i.imgur.com/vMpr2r6.jpg" ,Jakarta Globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 group-title="05. News" tvg-id="EPG N/A" tvg-name="RT" tvg-logo="Logo N/A" ,RT
+http://210.210.155.35/session/efcc94f6-7b7a-11e8-afd3-b82a72d63267/qwr9ew/s/s23/01.m3u8
+#EXTINF:-1 group-title="06. Entertainment" tvg-id="EPG N/A" tvg-name="Diva" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Diva_logo.svg/500px-Diva_logo.svg.png" ,Diva
+http://210.210.155.35/uq2663/h/h11/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="06. Entertainment" tvg-id="EPG N/A" tvg-name="Thrill (Opt-2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" ,Thrill (Opt-2)
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="07. Sport" tvg-id="New EPG" tvg-name="FOX Sports" tvg-logo="New Logo" ,FOX Sports
+http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8
+#EXTINF:-1 group-title="07. Sport" tvg-id="EPG N/A" tvg-name="Super Soccer TV" tvg-logo="Logo N/A" ,Super Soccer TV
+http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8
